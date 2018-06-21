@@ -7,5 +7,3 @@ Pass=.//*[@id='PW']
 Male=//input[7]
 Month=MN
 Day=DY
-Year=YR
-Facebook=Facebook
